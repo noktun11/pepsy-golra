@@ -1,1 +1,18 @@
 @charset "utf-8";
+/*
+아이디 선택자(#): 문서내에서 단 한번만 사용
+클래스 선택자(.): 문서내에서 여러번 반복/재사용
+*/
+.logo{
+  width: 100px;
+  height: 110px;
+  display: block;
+}
+.mx-auto{
+  margin: 0 auto; /* 상하 0, 좌우 auto, margin + x축 +auto */
+
+}
+.my-50{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
