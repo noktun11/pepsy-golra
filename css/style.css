@@ -9,6 +9,9 @@
   margin: 0 auto; /* 상하 0, 좌우 auto, margin + x축 +auto */
 
 }
+.text-upper{
+  text-transform: uppercase;
+}
 a:link, 
 .mx-10{
   margin-left: 10px;
@@ -59,4 +62,15 @@ a:hover{
 .cf{
   width: 800px;
   height: 500px;
+}
+.movie-title{
+
+}
+.movie-text{
+
+}
+.movie-poster{
+  width: 600px;
+  height: 300px;
+  pont
 }
