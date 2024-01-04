@@ -13,6 +13,14 @@
   text-transform: uppercase;
 }
 a:link, 
+.py-10{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.mx-5{
+  margin-left: 5px;
+  margin-right: 5px;
+}
 .mx-10{
   margin-left: 10px;
   margin-right: 10px;
@@ -73,4 +81,10 @@ a:hover{
   width: 600px;
   height: 300px;
   font-size: 0;
+}
+.sns{
+  font-size: 0;
+}
+.bg-sns{
+  background-color: #9b2727;/*sns블럭 백그라운드 컬러 설정*/
 }
