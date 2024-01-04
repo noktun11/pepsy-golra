@@ -72,10 +72,11 @@ a:hover{
   height: 500px;
 }
 .movie-title{
-
+  font-size: 22px;
 }
 .movie-text{
-
+  font-size: 16px;
+  color: #555555;
 }
 .movie-poster{
   width: 600px;
@@ -87,4 +88,33 @@ a:hover{
 }
 .bg-sns{
   background-color: #9b2727;/*sns블럭 백그라운드 컬러 설정*/
+}
+.divider{
+  border:0;
+  height: 1px;
+  background-color: #005891;
+}
+/*==================푸터 끝===============*/
+
+.cs-title{
+  font-size: 15px;
+  color: #005891;
+}
+.cs-number{
+  font-size: 30px;
+  font-weight: bold;
+  color: #005891;
+}
+.cs-number a{/* 하위 선택자(=후손 선택자:속성 설정*/
+  color: #005891;
+
+}
+.address text-ko{
+  font-size: 13px;
+}
+.ownership-en{
+  font-size: 11px;
+}
+.brand{
+  font-size: ;
 }
